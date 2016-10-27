@@ -1,0 +1,9 @@
+[options]
+font = Monospace 15
+
+[colors]
+foreground = #B7C8B5
+
+background = rgba(36,41,56,.8)
+
+
